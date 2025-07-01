@@ -1,12 +1,25 @@
-# React + Vite
+# 🧠 Graph Visualizer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web-based **Graph Algorithm Visualizer** built with **React** and **Tailwind CSS**. This tool allows users to interactively explore how popular pathfinding algorithms work in a grid-based environment.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🟢 **Start Node** and 🔴 **End Node** placement
+- ⬛ Drag to create **walls/obstacles**
+- 📍 Visualization of:
+  - Breadth-First Search (BFS)
+  - Depth-First Search (DFS)
+  - Dijkstra’s Algorithm
+  - A* Search Algorithm
+- 🌈 Animated traversal and path discovery
+- 🧼 Clear Grid and Walls buttons
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React.js**
+- **Tailwind CSS**
+- **Vite** (for blazing fast dev environment)
+
+## 📸 Preview
+
+![Working Model](image.png)
