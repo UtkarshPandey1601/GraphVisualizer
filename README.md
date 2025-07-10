@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/85a8bb0f-9780-4bcc-aade-06a805779e91)# 🧠 Graph Visualizer
+## 🧠 Graph Visualizer
 
 A web-based **Graph Algorithm Visualizer** built with **React** and **Tailwind CSS**. This tool allows users to interactively explore how popular pathfinding algorithms work in a grid-based environment.
 
